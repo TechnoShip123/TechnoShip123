@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=footer&text=TechnoShip123&fontSize=70)
-# TechnoShip123
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=TechnoShip123&fontSize=70)
 Just an average programmer on the internet who likes `E`
 - Member of the MDSP group
 - Favorite OS: Debian
