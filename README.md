@@ -5,7 +5,7 @@ Just an average programmer on the internet who likes `E`
 - Main Programming Language: Python
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechnoShip123&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/technoship123/github-readme-stats)
+[![TechnoShip123's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechnoShip123&count_private=true&show_icons=true&theme=calm)](https://github.com/technoship123/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoShip123)](https://github.com/technoship123/github-readme-stats)
 
 <!--
