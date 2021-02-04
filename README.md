@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=footer&text=TechnoShip123&fontSize=70)
 
 Who am I? Well, just an average programmer on the internet who likes `E`
-- Member of the MDSP group
+- Member of the MDST group
 - Favorite OS: Debian
 - Main Programming Language: Python
 - Light mode or Dark mode: **E**
