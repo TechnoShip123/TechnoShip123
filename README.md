@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=footer&text=TechnoShip123&fontSize=70)
 
 Hi! I'm TechnoShip123, you can call me Thonk. I'm a self-taught programmer who tends to code in Python, and I'm always looking to learn more! The kind of projects I like are GUIs and login systems. Some more facts:
-- I am a member of MDSP
+- I am a member of [MDSP](https://github.com/m-d-s-t)
 - My favorite OS is Debian
 - Currently learning Java SE 11
 - I'm AWS Certified
