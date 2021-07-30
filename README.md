@@ -6,5 +6,10 @@ Hi! I'm TechnoShip123, you can call me Thonk. I'm a self-taught programmer who t
 - Currently learning Java SE 8
 - I'm AWS Certified
 
+In order of priority, I'm currently working on:
+1. [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+2. [ThonkMod](https://github.com/TechnoShip123/ThonkMod/)
+3. [TGoT](https://github.com/TechnoShip123/TGoT/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoShip123&count_private=true&theme=calm&cache_seconds=7288)](https://github.com/technoship123/technoship123)
 [![TechnoShip123's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechnoShip123&count_private=true&show_icons=true&theme=calm&cache_seconds=7200)](https://github.com/technoship123/technoship123)
