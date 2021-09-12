@@ -2,7 +2,7 @@
 
 Hi! I'm TechnoShip123, you can call me Thonk. I'm a self-taught programmer who tends to code in Python, and I'm always looking to learn more! The kind of projects I like are GUIs and login systems. Some more facts:
 - I am a member of [MDSP](https://github.com/m-d-s-t)
-- My favorite OS is Arch Linux
+- My favorite OS is Arch Linux (but I use Windows)
 - Currently learning Java SE 8
 - I'm AWS Certified
 
