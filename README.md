@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=footer&text=TechnoShip123&fontSize=70)
 
-Hi! I'm TechnoShip123. I'm a self-taught programmer and aspiring full stack dev who recently started Java, and I'm always looking to learn more! The kind of projects I like are GUIs and login systems. Some more facts:
-- Learning to work with Spring Boot
-- Currently focusing on Java
-- AWS Certified
+Hi! I'm TechnoShip123. I'm a self-taught programmer and aspiring full stack dev who recently started Java, and I'm always looking to learn more! The kind of projects I like are GUIs and login systems.
 
 In order of priority, I'm currently working on:
 1. [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
