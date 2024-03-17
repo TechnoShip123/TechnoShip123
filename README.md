@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm TechnoShip123</h2>
+<h2 align="center">👋 Hi, I'm sjalkote</h2>
 
 <!-- Flex ThonkOS here once repo is public ;) -->
 I'm a self-taught programmer that enthusiastically explores various programming languages and frameworks. I love diving into the world of tech and creating a diverse range of projects, developing my skills and expanding my knowledge, while also having fun by trying new things!
@@ -40,5 +40,5 @@ I'm a self-taught programmer that enthusiastically explores various programming 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoShip123&count_private=true&theme=calm&cache_seconds=7288)](https://github.com/technoship123/technoship123)
-[![TechnoShip123's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechnoShip123&count_private=true&show_icons=true&theme=calm&cache_seconds=7200)](https://github.com/technoship123/technoship123)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjalkote&count_private=true&theme=calm&cache_seconds=7288)](https://github.com/sjalkote/sjalkote)
+[![sjalkote's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjalkote&count_private=true&show_icons=true&theme=calm&cache_seconds=7200)](https://github.com/sjalkote/sjalkote)
